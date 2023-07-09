@@ -1,0 +1,16 @@
+# Notebook Checkpoints
+.ipynb_checkpoints
+
+# Cache
+__pycache__
+
+# Secrets
+secrets.json
+
+# Datasets
+*.data
+*.dat
+wine
+
+# Documents
+*.pdf
