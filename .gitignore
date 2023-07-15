@@ -10,6 +10,7 @@ secrets.json
 # Datasets
 *.data
 *.dat
+*.csv
 wine
 
 # Documents
