@@ -13,6 +13,7 @@ secrets.json
 *.csv
 wine
 data*
+*data
 
 # Documents
 *.pdf
